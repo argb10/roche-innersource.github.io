@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "argb10.github.io"
+title                    : "roche-innersource.github.io"
 title_separator          : "-"
-name                     : "ARGB"
-description              : "Blogs about infosec and HackTheBox challenges"
-url                      : "https://argb10.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "argb10/argb10.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Roche InnerSource"
+description              : ""
+url                      : "https://roche-innersource.github.io"
+baseurl                  : ""
+repository               : "roche-innersource/roche-innersource.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
